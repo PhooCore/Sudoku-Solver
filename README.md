@@ -105,7 +105,7 @@ Tests unitaires des différents TAD afin de vérifier leur bon fonctionnement in
 
 ## Auteurs
 
-* **NGUYEN Tuyet Phuong** | [GitHub-PhooCore](https://github.com/PhooCore)
+* **NGUYEN Phuong** | [GitHub-PhooCore](https://github.com/PhooCore)
 * **CORBILLÉ Iris**  | [GitHub-iriscrbl](https://github.com/iriscrbl)
 * **AHMAD FAISAL Aneesa**
 * **MUNKH ERDENE Dulguun**
