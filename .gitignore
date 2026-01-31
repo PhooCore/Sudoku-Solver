@@ -1,5 +1,32 @@
-# Object file
-*.o
 
-# Ada Library Information
 *.ali
+*.o
+*.obj
+*.exe
+*.out
+
+obj/
+bin/
+build/
+.Build/
+.gprbuild/
+
+*.gpr.user
+*.cgpr
+
+
+*.tmp
+*.log
+*.bak
+*~
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
+
+output/
+results/
